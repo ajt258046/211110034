@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color:aquamarine;
+}
+nav{
+    text-align: center;
+    width: 100%;
+    background-color:wheat;
+}
+#profile{
+    background-image:url('./images/abstract-colorful-geometric-overlapping-background-and-texture-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: 100;
+    padding: 50px;
+}
+#Pendidikan{
+    text-align: center;
+    display: inline-block;
+}
+#Keahlian{
+    text-align: center;
+    display: inline-block;
+}
